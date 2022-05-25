@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **creating more projects using JavaScript to add to my porfolio.**
 
+- 📝 I’d like to improve this project by **making the game compatible with mobile devices.**
+
 - 👨‍💻 Here's the link to my portfolio [https://corricodes.netlify.app/](https://corricodes.netlify.app/)
 
 <h3 align="left">Languages and Tools used:</h3>
