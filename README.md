@@ -1,4 +1,4 @@
-<h1 align="center">Nokie Snake Game</h1>
+<h1 align="center">Nokia Snake Game</h1>
 <h3 align="center">The Nokia Snake Game using JavaScript from Code with Ania Kubów.</h3>
 
 - 🔭 I’m currently working on **creating more projects using JavaScript to add to my porfolio.**
